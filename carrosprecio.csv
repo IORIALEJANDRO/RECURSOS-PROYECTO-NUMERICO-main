@@ -1,0 +1,31 @@
+Carro ID,Nombre Carro,tipo combustible,aspiracion,cuerpo auto,Rueda,Longitud c.,Altura c.,cilindros,tamanomotor,carrera,caballosf,mpgciudad,Precio
+1,alfa-rome,gas,std,convertible,88.6,168.8,48.8,4,130,2.68,111,21,13495
+2,alfa-rome,gas,std,covertible,88.6,168.8,48.8,4,130,2.68,111,21,16500
+3,alfa-rome,gas,std,Hatchback,94.5,171,52.4,6,152,3.47,154,19,16500
+4,audi 100ls,gas,std,sedan,99.8,176.6,54.3,4,109,3.4,102,24,13950
+5,audi 100ls,gas,std,sedan,99.4,176.6,54.3,5,136,3.4,115,18,17450
+6,audi fox,gas,std,sedan,99.8,177.3,53.1,5,136,3.4,110,19,15250
+7,audi 5000,gas,std,sedan,105.8,192.7,55.7,5,136,3.4,110,19,17710
+8,audi 4000,gas,std,wagon,105.8,192.7,55.7,5,136,3.4,110,19,18920
+9,audi 5000,gas,turbo,sedan,105.8,192.7,55.9,5,131,3.4,140,19,23875
+10,bmw 320i,gas,turbo,Hatchback,99.5,178.2,52,5,131,3.4,160,17,17859
+11,bmw 320i,gas,std,sedan,101.2,176.8,54.3,4,108,2.8,101,16,16430
+12,bmw x1,gas,std,sedan,101.2,176.8,54.6,34,108,3.19,101,23,18925
+13,bmw x3,gas,std,sedan,101.2,176.8,54.3,6,164,3.19,121,23,20970
+14,bmw z4,gas,std,sedan,101.2,176.8,54.3,6,164,3.19,121,21,21105
+15,bmw x4,gas,std,sedan,103.5,189,55.7,6,164,3.39,121,21,24565
+16,bmw x5,gas,std,sedan,103.5,189,55.7,6,209,3.39,182,20,30760
+17,bmw z4,gas,std,sedan,103.5,193.8,53.7,6,209,3.39,182,16,41315
+18,bmw x3,gas,std,sedan,110,197,56.3,6,209,3.03,182,16,36880
+19,chevrolet,gas,std,Hatchback,88.4,141.1,53.2,3,61,3.11,48,15,5151
+20,chevrolet,gas,std,Hatchback,94.5,155.9,52,4,90,3.11,70,47,6295
+21,chevrolet,gas,std,sedan,94.5,158.8,52,4,90,3.23,70,38,6575
+22,dodge range,gas,std,Hatchback,93.7,157.3,50.8,4,90,3.23,68,38,5572
+23,dodge range,gas,std,Hatchback,93.7,157.3,50.8,4,98,3.39,68,37,6377
+24,dodge range,gas,turbo,Hatchback,93.7,157.3,50.8,4,90,3.46,102,31,7957
+25,honda civic,gas,std,Hatchback,95.9,157.3,50.6,4,90,3.9,68,24,6229
+26,honda civic,gas,std,sedan,103.3,157.3,50.6,4,90,3.41,78,31,6692
+27,honda civic,gas,std,sedan,86.6,157.3,50.6,4,98,3.41,68,31,7609
+28,honda acces,gas,turbo,sedan,93.7,157.3,50.6,4,122,3.07,102,31,8558
+29,honda civic,gas,std,sedan,96.5,157.3,50.6,4,156,3.41,88,24,8921
+30,dogde range,gas,turbo,sedan,96.5,157.3,50.6,4,92,3.41,145,24,12964
